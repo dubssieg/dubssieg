@@ -12,5 +12,6 @@
   <li>🌱 I’m currently learning Python, neural networks and text mining.</li>
   <li>💼 I'm a student at Rennes 1 University, in Brittany.</li>
   <li>📚 You may take a glance at my resume <a href="https://github.com/Tharos-ux/Tharos-ux/blob/main/Siegfried_Dubois_CV_M1.pdf">here</a>!</li>
-  <li>🐲 I'm also a roleplayer, and some of my repos are liked to this hobby!</li>
+  <li>🐲 I'm a roleplayer, some of my repos are linked to this hobby!</li>
+  <li>🐱 I may like cats, also. Maybe a lil' too much.</li>
 </ul>
