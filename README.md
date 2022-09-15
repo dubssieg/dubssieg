@@ -9,7 +9,7 @@
 <ul>
   <li>👋 Hi, I’m Siegfried (He/Him)</li>
   <li>❤️ I love algorithm creation and optimization.</li>
-  <li>🌱 I’m currently learning Python, neural networks and text mining.</li>
+  <li>🌱 I’m currently learning Python, ML/DL and text mining.</li>
   <li>💼 I'm a student at Rennes 1 University, in Brittany.</li>
   <li>📖 I used to have courses about teaching and vulgarization.</li>
   <li>📚 You may take a glance at my resume <a href="https://github.com/Tharos-ux/Tharos-ux/blob/main/Siegfried_Dubois_CV_M1.pdf">here</a>!</li>
